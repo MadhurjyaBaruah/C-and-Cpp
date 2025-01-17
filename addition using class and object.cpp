@@ -6,7 +6,7 @@ class Add{
 	void read(){
 		cout<<"Enter the first number: ";
 		cin>>num1;
-		cout<<"Enter second number : ";
+		cout<<"Enter second number: ";
 		cin>>num2;
 	}
 //};
